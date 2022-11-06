@@ -1,0 +1,20 @@
+{
+    "resource_pack_name": "vanilla",
+	"texture_name": "atlas.terrain",
+	"padding": 8,
+	"num_mip_levels": 4,
+    "texture_data": {
+        "cave_block": {
+            "textures": ["textures/blocks/cave_block"]
+        },
+        "paladium_block": { "textures": ["textures/blocks/paladium_block"] },
+        "titane_block": { "textures": ["textures/blocks/titane_block"] },
+        "amethyste_block": { "textures": ["textures/blocks/amethyste_block"] },
+        
+        "paladium_ore": { "textures": ["textures/blocks/paladium_ore"] },
+        "amethyste_ore": { "textures": ["textures/blocks/amethyste_ore"] },
+        "titane_ore": { "textures": ["textures/blocks/titane_ore"] },
+
+        "totem_of_fertility": { "textures": ["textures/blocks/totem_of_fertility"] }
+    }
+}

@@ -1,0 +1,67 @@
+{
+    "resource_pack_name": "EndioriteMod",
+
+    "texture_data": {
+        "titane_sword": { "textures": "textures/titane_sword" },
+        "amethiste_sword": { "textures": "textures/amethiste_sword" },
+        "paladium_sword": { "textures": "textures/paladium_sword" },
+        "azurite_sword": { "textures": "textures/endiorite_sword" },
+
+        "titane_pickaxe": { "textures": "textures/titane_pickaxe" },
+        "amethiste_pickaxe": { "textures": "textures/amethiste_pickaxe" },
+        "paladium_pickaxe": { "textures": "textures/paladium_pickaxe" },
+        "azurite_pickaxe": { "textures": "textures/endiorite_pickaxe" },
+
+        "titane_axe": { "textures": "textures/titane_axe" },
+        "amethiste_axe": { "textures": "textures/amethiste_axe" },
+        "paladium_axe": { "textures": "textures/paladium_axe" },
+
+        "titane_hovel": { "textures": "textures/titane_shovel" },
+        "amethiste_hovel": { "textures": "textures/amethiste_shovel" },
+        "paladium_hovel": { "textures": "textures/paladium_shovel" },
+
+        "titane_ingot": { "textures": "textures/titane_ingot" },
+        "amethiste_ingot": { "textures": "textures/amethiste_ingot" },
+        "paladium_ingot": { "textures": "textures/paladium_ingot" },
+        "azurite_ingot": { "textures": "textures/endiorite_ingot" },
+
+        "paladium_helmet": { "textures": "textures/paladium_helmet" },
+        "paladium_chestplate": { "textures": "textures/paladium_chestplate" },
+        "paladium_leggings": { "textures": "textures/paladium_leggings" },
+        "paladium_boots": { "textures": "textures/paladium_boots" },
+
+        "azurite_helmet": { "textures": "textures/endiorite_helmet" },
+        "azurite_chestplate": { "textures": "textures/endiorite_chestplate" },
+        "azurite_leggings": { "textures": "textures/endiorite_leggings" },
+        "azurite_boots": { "textures": "textures/endiorite_boots" },
+
+        "amethiste_helmet": { "textures": "textures/amethyste_helmet" },
+        "amethiste_chestplate": { "textures": "textures/amethyste_chestplate" },
+        "amethiste_leggings": { "textures": "textures/amethyste_leggings" },
+        "amethiste_boots": { "textures": "textures/amethyste_boots" },
+
+        "titane_helmet": { "textures": "textures/titane_helmet" },
+        "titane_chestplate": { "textures": "textures/titane_chestplate" },
+        "titane_leggings": { "textures": "textures/titane_leggings" },
+        "titane_boots": { "textures": "textures/titane_boots" },
+
+        "travel_helmet": { "textures": "textures/travel_helmet" },
+        "travel_chestplate": { "textures": "textures/travel_chestplate" },
+        "travel_leggings": { "textures": "textures/travel_leggings" },
+        "travel_boots": { "textures": "textures/travel_boots" },
+
+        "unclaim_finder": { "textures": "textures/unclaim_finder" },
+        "hang_glider": { "textures": "textures/hang_glider" },
+
+        "strength_stick": { "textures": "textures/strength_stick" },
+        "speed_stick": { "textures": "textures/speed_stick" },
+        "heal_stick": { "textures": "textures/stick_of_god" },
+        "stick_of_god": { "textures": "textures/heal_stick" },
+        "potion_launcher": { "textures": "textures/potion_launcher" },
+
+        "endiorite_seed": { "textures": "textures/endiorite_seed" },
+        "paladium_seed": { "textures": "textures/paladium_seed" },
+        "titane_seed": { "textures": "textures/titane_seed" }
+    }
+    
+}
