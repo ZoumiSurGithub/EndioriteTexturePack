@@ -1,0 +1,16 @@
+{
+    "format_version": 2,
+    "header": {
+      "name": "EndioriteMod",
+      "uuid": "f4ad5e7c-83a4-4063-bc06-903bb9055e19",
+      "version": [ 1, 1, 0 ],
+      "min_engine_version": [ 1, 19, 30 ]
+    },
+    "modules": [
+      {
+        "type": "resources",
+        "uuid": "8971e130-bcfc-4a93-96f8-fa6c645f0d98",
+        "version": [1, 1, 0]
+      }
+    ]
+  }

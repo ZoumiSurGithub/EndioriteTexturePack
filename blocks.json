@@ -1,0 +1,16 @@
+{
+    "format_version": [1, 1, 0],
+    "cave_block": {
+        "textures": "cave_block",
+        "sound": "glass"
+    },
+    "paladium_block": { "textures": "paladium_block", "sound": "stone" },
+    "titane_block": { "textures": "titane_block", "sound": "stone" },
+    "amethyste_block": { "textures": "amethyste_block", "sound": "stone" },
+    
+    "amethyste_ore": { "textures": "amethyste_ore", "sound": "stone" },
+    "titane_ore": { "textures": "titane_ore", "sound": "stone" },
+    "paladium_ore": { "textures": "paladium_ore", "sound": "stone" },
+
+    "totem_of_fertility": { "textures": "totem_of_fertility", "sound": "stone" }
+}
